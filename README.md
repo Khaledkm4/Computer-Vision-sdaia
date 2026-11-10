@@ -259,7 +259,9 @@ MyDrive/Date_Vision_Project/
 
 ## 🔗 SDAIA Academy GitHub Repository Link
 
-**Repository:** [`https://github.com/Khaledkm4/Computer-Vision-sdaia`](https://github.com/Khaledkm4/Computer-Vision-sdaia)
+**SDAIA Academy:** [`https://github.com/SDAIAAcademy`](https://github.com/SDAIAAcademy)
+
+**Project repository:** [`https://github.com/Khaledkm4/Computer-Vision-sdaia`](https://github.com/Khaledkm4/Computer-Vision-sdaia)
 
 ---
 
