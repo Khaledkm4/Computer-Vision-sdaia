@@ -265,4 +265,22 @@ MyDrive/Date_Vision_Project/
 
 ---
 
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Khaledkm4"><img src="https://github.com/Khaledkm4.png" width="90" alt="Khaledkm4"><br><sub><b>Khaledkm4</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IbrahimSulami"><img src="https://github.com/IbrahimSulami.png" width="90" alt="IbrahimSulami"><br><sub><b>IbrahimSulami</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/albadiahmed67-commits"><img src="https://github.com/albadiahmed67-commits.png" width="90" alt="albadiahmed67-commits"><br><sub><b>albadiahmed67-commits</b></sub></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <sub>Dataset © Wadha S. N. Alhamdan, CC BY 4.0. Model built with Ultralytics YOLOv8 (AGPL-3.0).</sub>
