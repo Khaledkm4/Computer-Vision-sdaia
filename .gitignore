@@ -1,0 +1,17 @@
+# Large artifacts live on the external SSD, never in git
+*.pt
+*.onnx
+runs/
+data/
+weights/
+exports/
+showcase/
+.kaggle/
+kaggle.json
+
+.nbtest/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
